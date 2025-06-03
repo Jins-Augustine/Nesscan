@@ -9,7 +9,7 @@
 
 - **Scan Type**: Basic Scan
 - **Duration**: ~25 minutes
-- **Total Vulns Found**: 106
+- **Total Vulns Found**: 74
 - **Severity Breakdown**:
   - Critical: 1
   - High: 5+
