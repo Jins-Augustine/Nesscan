@@ -24,8 +24,8 @@ This project documents a full vulnerability scan performed on a local machine us
 
 ## 📁 Folder Structure
 
-- `screenshots/`: All screenshots
-- `report.md`: Detailed findings
+- [SCREENSHOTS](screenshots/): All screenshots
+- [REPORT](report.md): Detailed findings
 - `README.md`: This file
 
 ## 📄 Report Highlights
